@@ -1,5 +1,7 @@
 # Welcome to Your Timedoor Expo + React Native App 👋
 
+![README-banner](/assets/images/readme-banner.jpg)
+
 This Timedoor test run is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). Its primary purpose is to showcase and facilitate the Teens App Development course (3 parts).
 
 ## Get Started
