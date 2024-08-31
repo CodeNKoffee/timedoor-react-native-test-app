@@ -70,11 +70,13 @@ To learn more about developing your project with Expo, check out the following r
 - Array Map in 100 Seconds: [Video](https://youtu.be/DC471a9qrU4?si=fejKvYaB0cj3Y99i)
 - TypeScript in 100 Seconds: [Video](https://youtu.be/zQnBQ4tB3ZA?si=9IlOl8-0ESrLOv-q)
 - MongoDB in 100 Seconds: [Video](https://youtu.be/-bt_y4Loofg?si=9QWgw0RZLsB9eNLN)
+- Git Explained in 100 Seconds: [Video](https://youtu.be/hwP7WQkmECE?si=Gcv9thN4Yr-kuv4E)
 
 - [React Native Documentation](https://reactnative.dev/)
 - [Expo Documentation](https://docs.expo.dev/)
 - [Redux Documentation](https://redux-toolkit.js.org/)
 - [Download Node.js](https://nodejs.org/en/download/prebuilt-installer)
+- [Download Git](https://git-scm.com/downloads)
 - [Download Android Studio (& Android Emulator)](https://developer.android.com/studio)
 - [FontAwesome Icons](https://fontawesome.com/search)
 
